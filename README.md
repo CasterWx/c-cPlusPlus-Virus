@@ -2,6 +2,10 @@
 
 自制病毒——控制桌面背景鼠标以及开关机
 
+###### 欢迎关注公众号，开启和我的交流
+
+![weix](https://www.cnblogs.com/images/cnblogs_com/LexMoon/1391533/o_qrcode_for_gh_f3457f4f73a1_258.jpg)
+
 
 # 理论知识
 
